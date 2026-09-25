@@ -48,6 +48,7 @@ We summarize different color transfer strategies which could be used for image h
 ## Papers
 
 #### Supervised deep learning methods
++ Zhaorun Zhou, Jinshan Pan, Jinhui Tang: "*Wavelet-Based Adaptive Vision State Space Network for Image Harmonization.*" IJCV (2026) [[paper]](https://link.springer.com/article/10.1007/s11263-026-02981-2)
 + Zhiqiu Zhang, Dongqi Fan, Mingjie Wang, Qiang Tang, Jian Yang, Zili Yi: "*Region-to-Region: Enhancing Generative Image Harmonization with Adaptive Regional Injection.*" arXiv preprint arXiv:2508.09746 (2025). [[arXiv]](https://arxiv.org/pdf/2508.09746) [[code]](https://github.com/anonymity-111/Region_to_Region) 
 + Guanlin Li, Bin Zhao, Xuelong Li: "*Image harmonization in complex degradation scenes.*" Pattern Recognition (2025) [[paper]](https://www.sciencedirect.com/science/article/pii/S003132032500888X) [[code]](https://github.com/guanguanboy/HCDM)
 + Haolin Wang, Ming Liu, Zifei Yan, Chao Zhou, Longan Xiao, Wangmeng Zuo: "*Retrieval Augmented Image Harmonization.*" arXiv preprint arXiv:2412.13916 (2024) [[arXiv]](https://arxiv.org/pdf/2412.13916)
